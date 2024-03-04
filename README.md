@@ -1,1 +1,4 @@
 # Project-CS-320
+How can I ensure that my code, program, or software is functional and secure?  How i can ensure that my code, program, or software is functional and secure can be done by first understadning the requritments of the software and what will be needed to accomplish this. In addition I can write clean and, readable, secure code that follows secure coding practices for the lanague I am coding in. This looks like using relevant variable names, adding inline comments to ensure that the code im writing is understandable. I can also encoporate testing from the start and use automated testing tools to streamline the process. 
+How do I interpret user needs and incorporate them into a program? I can do this by gathering requriments to understand their goals or weak points. I can utilize the feedback provided to meet their software needs. 
+How do I approach designing software? I design software based on client needs and secure coding process. 
